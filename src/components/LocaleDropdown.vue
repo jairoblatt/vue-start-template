@@ -17,7 +17,7 @@
 
 <script>
 import { mapGetters } from 'vuex'
-import { loadMessages } from './plugins/i18n'
+import { loadMessages } from '@/plugins/i18n'
 
 export default {
   computed: mapGetters({
