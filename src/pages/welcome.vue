@@ -39,7 +39,7 @@ export default {
   },
 
   data: () => ({
-    title: window.config.appName
+    title: 'Laravel'
   }),
 
   computed: mapGetters({

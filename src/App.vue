@@ -35,8 +35,8 @@ export default {
   }),
 
   metaInfo () {
-    const { appName } = window.config
-
+    // const { appName } = window.config
+    const appName = 'Laravel'
     return {
       title: appName,
       titleTemplate: `%s · ${appName}`
