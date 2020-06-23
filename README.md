@@ -1,5 +1,4 @@
-# mini-social-network
-
+# Vue start template
 > A vue project
 
 ## Build Setup
