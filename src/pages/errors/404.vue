@@ -1,6 +1,7 @@
 <template>
   <card class="text-center">
     <h3 class="mb-4">
+    
       {{ $t('page_not_found') }}
     </h3>
 
